@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: SystemTime\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-11 10:58+0200\n"
-"PO-Revision-Date: 2019-10-16 16:17+0300\n"
+"PO-Revision-Date: 2019-12-19 20:02+0200\n"
 "Last-Translator: nautilus7\n"
 "Language-Team: \n"
 "Language: el\n"
@@ -137,7 +137,7 @@ msgid "On receiver 'cold start', allow any required time adjustments to be 'step
 msgstr "Κατά την εκκίνηση από κατάσταση εκτός λειτουργίας (cold start), η ενδεχόμενη διόρθωση της ώρας να γίνεται άμεσα (stepped)."
 
 msgid "Press OK"
-msgstr "Πατήστε ΟΚ"
+msgstr "Πιέστε ΟΚ"
 
 msgid "Restart GUI"
 msgstr "Επανεκκίνηση GUI"
